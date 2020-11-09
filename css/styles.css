@@ -1,0 +1,140 @@
+body {
+    color:  #706c61;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: normal;
+    text-align: center;
+}
+
+h1{
+    color: #2d6187;
+    font-family: 'Oswald', sans-serif;
+    font-weight: lighter;
+}
+
+h2{
+    color: #2d6187;
+    font-family: 'Oswald', sans-serif;
+    font-weight: lighter;
+}
+
+h3 {
+    color: #706c61;
+    font-family: 'Oswald', sans-serif;
+    font-weight: lighter;
+}
+
+hr {
+    border-color: #706c61;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 4%;
+}
+
+.top-container {
+    background-color: #000000;
+    padding: 100px 0 0 0;
+    position: relative;
+}
+
+.top-heading {
+    color: #2d6187;
+    font-family: 'Oswald', sans-serif;
+    font-size: 85px;
+    font-weight: lighter;
+    line-height: 2;
+    margin: 50px auto 0 auto;
+}
+
+.top-sub-heading {
+    color: #ffffff;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
+}
+
+.skyline {
+    display: block;
+    position: static;
+    width: 100%;
+}
+
+.middle-container {
+    padding: 100px 100px;
+}
+
+.skills-row {
+    line-height: 2;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    width: 40%;
+}
+
+.skills-hb1 {
+    width: 25%;
+    float: left;
+    margin-bottom: 20%;
+    margin-right: 30px;
+    margin-top: 10%;
+}
+
+.skills-hb2 {
+    width: 25%;
+    float: right;
+    margin-bottom: 20%;
+    margin-left: 30px;
+    margin-top:  10%;
+}
+
+.btn {
+	box-shadow:inset 0px -6px 10px 0px #91b8b3;
+	background:linear-gradient(to bottom, #768d87 5%, #6c7c7c 100%);
+	background-color:#706c61;
+	border-radius:5px;
+    border:1px solid #706c61;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Oswald', sans-serif;
+    font-size:20px;
+	font-weight:lighter;
+	padding:11px 23px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #2b665e;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #6c7c7c 5%, #768d87 100%);
+	background-color:#6c7c7c;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
+
+.bottom-container {
+    background-color: #000000;
+    padding: 100px 0 0 0;
+    position: relative;
+}
+
+.footer-link {
+    color: #ffffff;
+    text-align: center;
+}
+
+.copyright {
+    color: #706c61;
+    font-size: .75rem;
+    padding: 20px 0;
+}
+
+a {
+    color: #706c61;
+    font-family: 'Oswald', sans-serif;
+    font-weight: lighter;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #706c61;
+}
